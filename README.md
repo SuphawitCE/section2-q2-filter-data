@@ -6,4 +6,8 @@ Filter the data and display to a table
 
 Link website: http://SuphawitCE.github.io/section2-q2-filter-data  
 
+cd folder  
+npm install  
+npm start  
+
 Thanks,
