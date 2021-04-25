@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/section2-q2-filter-data/static/css/main.b03d3848.chunk.css",
+    "main.js": "/section2-q2-filter-data/static/js/main.e831de77.chunk.js",
+    "main.js.map": "/section2-q2-filter-data/static/js/main.e831de77.chunk.js.map",
+    "runtime-main.js": "/section2-q2-filter-data/static/js/runtime-main.254d6708.js",
+    "runtime-main.js.map": "/section2-q2-filter-data/static/js/runtime-main.254d6708.js.map",
+    "static/css/2.c51d807b.chunk.css": "/section2-q2-filter-data/static/css/2.c51d807b.chunk.css",
+    "static/js/2.6fe6fea7.chunk.js": "/section2-q2-filter-data/static/js/2.6fe6fea7.chunk.js",
+    "static/js/2.6fe6fea7.chunk.js.map": "/section2-q2-filter-data/static/js/2.6fe6fea7.chunk.js.map",
+    "index.html": "/section2-q2-filter-data/index.html",
+    "static/css/2.c51d807b.chunk.css.map": "/section2-q2-filter-data/static/css/2.c51d807b.chunk.css.map",
+    "static/css/main.b03d3848.chunk.css.map": "/section2-q2-filter-data/static/css/main.b03d3848.chunk.css.map",
+    "static/js/2.6fe6fea7.chunk.js.LICENSE.txt": "/section2-q2-filter-data/static/js/2.6fe6fea7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.254d6708.js",
+    "static/css/2.c51d807b.chunk.css",
+    "static/js/2.6fe6fea7.chunk.js",
+    "static/css/main.b03d3848.chunk.css",
+    "static/js/main.e831de77.chunk.js"
+  ]
+}
